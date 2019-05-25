@@ -6,9 +6,11 @@
 	"Plugins": [
 		{
 			"Name": "OceanPlugin",
-  			"Type": "Runtime",
-  			"LoadingPhase": "PreDefault",
-  			"Enabled": true
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
